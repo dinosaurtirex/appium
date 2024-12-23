@@ -1,4 +1,6 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" alt="Флаг России" width="500">
+</p>
 
 <p align="center">
    <a href="https://appium.io/">
@@ -14,7 +16,6 @@
 [![NPM version](https://badge.fury.io/js/appium.svg)](https://npmjs.org/package/appium)
 [![Monthly Downloads](https://img.shields.io/npm/dm/appium.svg)](https://npmjs.org/package/appium)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fappium%2Fappium.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fappium%2Fappium?ref=badge_shield)
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
 
 </div>
 
@@ -206,7 +207,7 @@ contribution of project development and leadership!
 
 <p align="center">
   <a href="https://saucelabs.com/resources/blog/appium-strategic-partner"><img src="packages/appium/docs/overrides/assets/images/sponsor-logo-sauce.png"
-width="300" alt="Sauce Labs" /></a>
+width="300" alt="Sauce Labs XoxJlbl TTuDOPACbl" /></a>
 </p>
 
 ### Other Sponsors
